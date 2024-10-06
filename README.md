@@ -20,16 +20,12 @@ El dataset utilizado fue extraído de [Kaggle](https://www.kaggle.com/datasets/v
 
 *(!) - Para abrir el dashboard debe descargar el archivo aquí:*     [Ventas_Walmart](Ventas_Walmart.xlsx)
 
-## Principales KPIs
+## KPIs
 
 - **Total de Ventas:** Recuento de la cantidad de ventas. Ayuda a evaluar el rendimiento general de la empresa.
 - **Cantidad de unidades vendidas:** Indica la cantidad total de ítems vendidos, lo que permite conocer la demanda de los clientes y el volumen de ventas.
 - **Average Order Value (AOV):** Es una métrica utilizada para medir la cantidad media que los clientes gastan por pedido durante un determinado período de tiempo. El monitoreo de los cambios en el AOV ayuda a identificar los cambios en el comportamiento de compra de los clientes, lo que permite mejorar las estrategias de precios.
 - **Ganancias:** El total de las ganancias generadas por las ventas. Constituye una métrica financiera clave que revela la rentabilidad de la tienda y sus operaciones.
-- **Ventas por categoría:** Las tendencias de ventas desglosadas por categoría de producto (mobiliario, material de oficina, tecnología). Esto ayuda a identificar qué categorías de productos crecen o decrecen con el tiempo.
-- **Principales subcategorías de productos:** Este KPI muestra las subcategorías de productos con mayores ingresos (por ejemplo, impresoras, teléfonos, accesorios). Revela qué productos específicos contribuyen más a las ventas.
-- **Mejores clientes:** Identifica a los clientes que más invierten en nuestros productos.
-- **Ventas por región/estado:** Mide el rendimiento de las ventas geográficamente, lo que permite a la tienda realizar un seguimiento de los estados o regiones más rentables.
 
 ## Conclusiones
 
