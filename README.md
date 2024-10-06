@@ -4,13 +4,15 @@
 
 El objetivo principal de este proyecto es demostrar la capacidad de realizar un dashboard interactivo en Microsoft Excel para visualizar KPIs a lo largo del tiempo. El dashboard provee observaciones en ventas de una tienda norteamericana genérica en un período de tiempo de 3 años (2014-2017).
 
+El dataset utilizado fue extraído de [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
+
+*(!) - Para abrir el archivo del dataset debe descargarlo aquí:* [Dataset_Ventas](Sample%20-%20Superstore.csv)
+
 ## Herramientas usadas
 
 - **Microsoft Excel:** Tablas dinámicas, gráficos, formato condicional, slicers.
 - **Limpieza de datos:** Texto a columnas, filtros, uso de formato de tabla.
 - **Visualización de datos:** Diseño de dashboard interactivo para realizar un seguimiento de las ventas, las ganancias, las categorías de productos y el nivel de compra de los clientes.
-
-El dataset utilizado fue extraído de [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
 
 ## Dashboard
 
